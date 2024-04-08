@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Prazol Malla from Nepal<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I learn</p>
+<p align="left">I'm Prazol Malla from Nepal<br><br>- 🔭 I'm Final Year CSIT Student <br>- 📚 I'm currently learning Front-end Development (Next js) <br>- ⚡ In my free time I learn</p>
 
 ###
 
