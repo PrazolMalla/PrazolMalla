@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Prazol Malla from Nepal<br><br>- 🔭 I'm Final Year CSIT Student <br>- 📚 I'm currently learning Front-end Development (Next js) <br>- ⚡ In my free time I learn,Research,Play games,Watch Anime</p>
+<p align="left">I'm Prazol Malla from Nepal<br><br>- 🔭 I'm Final Year CSIT Student <br>- 📚 I'm currently learning Front-end Development (Vue js) <br>- ⚡ In my free time I learn,Research,Play games,Watch Anime</p>
 <h3 align="left">This is My CV</h3>
 
 # Prajwal Shrestha (Malla)
