@@ -37,41 +37,9 @@
 9849712430 ⋄ Dhungedhara, Kathmandu  
 prajwalmalla16@gmail.com ⋄ [linkedin.com/in/prajwal-shrestha-malla](https://www.linkedin.com/in/prajwal-shrestha-malla/) ⋄ [github.com/PrazolMalla](https://github.com/PrazolMalla)
 
-## OBJECTIVE
-Frontend enthusiastic BSC.CSIT student seeking an Internship opportunity to apply academic knowledge and gain hands-on experience in building real-world projects. Eager to learn industry best practices and contribute to a team environment by applying problem-solving skills.
 
-## EDUCATION
-**Bachelors in Science. Computer Science and Information Technology**  
-Institute: National College of Computer Studies, Tribhuvan University  
-Grade: 77% (Till Now)  
-Nov 2019 – Present
 
-## SKILLS
-### Technical Skills 
-HTML, CSS, JavaScript, Python, Photoshop, Figma, Java, Git, Agile 
-### Soft Skills
-Problem-Solving Skills, Communication, Teamwork and Collaboration, Time Management and Organization, Adaptability
 
-## PROJECTS
-- **SignaLink: ASL Translation using FNN and CNN with Analysis**  
-  - Used CustomTkinter python library for user interface.
-  - Used Feedforward Neural Network and Convolutional Neural Network as machine learning model
-  - [Link](#)
-
-- **Personal Portfolio Website**  
-  - Developed a user-friendly website to display the project using HTML, CSS, JavaScript and PHP.
-  - [Link](#)
-
-- **Landing Page for Plugin**  
-  - Developed a static landing page for a plugin using HTML, CSS, JavaScript
-  - [Link](#)
-
-## CERTIFICATION
-- Introduction to JavaScript | Great Learning 2024
-- Getting Started with Python | Coursera 2023
-
-## EXTRA-CURRICULAR ACTIVITIES
-- Actively creating social media posts (Instagram) of learning JavaScript and projects
 
 
 ###
@@ -110,6 +78,14 @@ Problem-Solving Skills, Communication, Teamwork and Collaboration, Time Manageme
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrazolMalla&show_icons=true&locale=en&layout=compact" alt="PrazolMalla" /></p>
   
   <img src="https://streak-stats.demolab.com?user=PrazolMalla&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akascape&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+<img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+</p>
 </div>
 
 ###
