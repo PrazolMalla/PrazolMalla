@@ -107,6 +107,7 @@ Problem-Solving Skills, Communication, Teamwork and Collaboration, Time Manageme
 ###
 
 <div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrazolMalla&show_icons=true&locale=en&layout=compact" alt="PrazolMalla" /></p>
   <img src="https://streak-stats.demolab.com?user=PrazolMalla&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
