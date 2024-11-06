@@ -19,8 +19,6 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrazolMalla&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrazolMalla&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PrazolMalla&limit=5&theme=onedark&combine_all_yearly_contributions=true)
