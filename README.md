@@ -5,11 +5,15 @@
 [![](https://visitcount.itsvg.in/api?id=PrazolMalla&icon=6&color=13)](https://visitcount.itsvg.in)
 
 
-# 💫 About Me:
-I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Development <br>A web dev enthusiast with a passion for React Java Node and Go  <br>Currently learning Java and React<br>🍃 Swift Learner  |<br> Looking forward to learn what AI Can do  
-<p align = 'right'>
+<div >
+  <p align = 'right'>
   <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="20%">
 </p>
+
+
+# 💫 About Me:
+I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Development <br>A web dev enthusiast with a passion for React Java Node and Go  <br>Currently learning Java and React<br>🍃 Swift Learner  |<br> Looking forward to learn what AI Can do  
+</div>
 
 
 ## 🌐 Socials:
@@ -17,11 +21,11 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
-<!-- Banners 4th Phase : SpiderMan -->
+
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" width="20%">
 </p>
-<!-- Banners 4th Phase : SpiderMan -->
+
 
 #### 📚 Frontend Development & Frameworks
 
