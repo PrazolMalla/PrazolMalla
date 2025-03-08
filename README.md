@@ -36,16 +36,13 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
 
 #### ⛏️ Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
