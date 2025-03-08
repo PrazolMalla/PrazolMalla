@@ -36,6 +36,14 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+
+#### 🚦 Version Control & Documentation Tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrazolMalla&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrazolMalla&theme=one_dark_pro&hide_border=false)<br/>
