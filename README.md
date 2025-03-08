@@ -7,7 +7,7 @@
 
 <div >
   <p align = 'right'>
-  <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="20%">
+  <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="10%">
 </p>
 
 
