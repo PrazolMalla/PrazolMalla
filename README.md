@@ -25,7 +25,7 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
 
 
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" width="20%">
+<img align='right' src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" width="15%">
 </p>
 
 
