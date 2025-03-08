@@ -8,7 +8,7 @@
 # 💫 About Me:
 I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Development <br>A web dev enthusiast with a passion for React Java Node and Go  <br>Currently learning Java and React<br>🍃 Swift Learner  |<br> Looking forward to learn what AI Can do  
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="20%">
+  <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="20%">
 </p>
 
 
@@ -19,7 +19,7 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" width="40%">
+<img align='right' src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" width="20%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
