@@ -11,7 +11,7 @@
 
 # 💫 About Me:
   <p align = 'right'>
-  <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="20%">
+  <img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="15%">
 </p
 I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Development <br>A web dev enthusiast with a passion for React Java Node and Go  <br>Currently learning Java and React<br>🍃 Swift Learner  |<br> Looking forward to learn what AI Can do 
 >
