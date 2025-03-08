@@ -58,7 +58,6 @@ I'm Prajwal Malla recently completed my bachelors (BSc.CSIT)<br>I ❤️ Web Dev
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 # 📊 GitHub Stats:
